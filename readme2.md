@@ -8,7 +8,7 @@ Danijar Hafner, Kuang-Huei Lee, Ian Fischer, Pieter Abbeel<br />
 </details>
 
 Efficient Planning in a Compact Latent Action Space <br />
-Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rockt‰schel, Edward Grefenstette, Yuandong Tian<br />
+Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rockt√§schel, Edward Grefenstette, Yuandong Tian<br />
 [[Paper]](https://arxiv.org/abs/2208.10291)  [[Video]](https://sites.google.com/view/latentplan) [[website]]() <br />
 <details>
 <summary>ImageDetails</summary>
@@ -84,7 +84,7 @@ Lunjun Zhang, Ge Yang, Bradly C Stadie<br />
 [[Paper]](https://arxiv.org/abs/2011.12491)  [[Video]](https://sites.google.com/view/latent-landmarks/) [[website]](https://crossminds.ai/video/world-model-as-a-graph-learning-latent-landmarks-for-planning-606ff243f43a7f2f827c1add/) ICML 2021<br />
 <details>
 <summary>ImageDetails</summary>
-<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/WorldModelasaGraph:LearningLatentLandmarksforPlanning/WorldModelasaGraph:LearningLatentLandmarksforPlanning-F01.png' width=50%><br />
-<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/WorldModelasaGraph:LearningLatentLandmarksforPlanning/WorldModelasaGraph:LearningLatentLandmarksforPlanning-F02.png' width=50%><br />
+<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/WorldModelasaGraphLearningLatentLandmarksforPlanning/WorldModelasaGraphLearningLatentLandmarksforPlanning-F01.png' width=50%><br />
+<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/WorldModelasaGraphLearningLatentLandmarksforPlanning/WorldModelasaGraphLearningLatentLandmarksforPlanning-F02.png' width=50%><br />
 </details>
 
