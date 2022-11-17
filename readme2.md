@@ -3,12 +3,11 @@ Danijar Hafner, Kuang-Huei Lee, Ian Fischer, Pieter Abbeel<br />
 [[Paper]](https://arxiv.org/abs/2206.04114)  [[Video]](https://danijar.com/project/director/) [[website]](https://www.youtube.com/watch?v=xDUAOyXiRKQ) NeurIPS 2022<br />
 <details>
 <summary>ImageDetails</summary>
-[Image 1](https://github.com/adityabantwal/BasicML/blob/main/PaperImages/DeepHierarchicalPlanningfromPixels/DeepHierarchicalPlanningfromPixels-F01.png?raw=true)<br />
-[Image 2](https://github.com/adityabantwal/BasicML/blob/main/PaperImages/DeepHierarchicalPlanningfromPixels/DeepHierarchicalPlanningfromPixels-F02.png?raw=true)<br />
+ <img src='https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg' width="50%"><br />
 </details>
 
 Efficient Planning in a Compact Latent Action Space <br />
-Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rockt‰schel, Edward Grefenstette, Yuandong Tian<br />
+Zhengyao Jiang, Tianjun Zhang, Michael Janner, Yueying Li, Tim Rockt√§schel, Edward Grefenstette, Yuandong Tian<br />
 [[Paper]](https://arxiv.org/abs/2208.10291)  [[Video]](https://sites.google.com/view/latentplan) [[website]]() <br />
 <details>
 <summary>ImageDetails</summary>
