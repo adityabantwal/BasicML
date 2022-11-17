@@ -39,8 +39,8 @@ Ramanan Sekar, Oleh Rybkin, Kostas Daniilidis, Pieter Abbeel, Danijar Hafner, De
 [[Paper]](https://arxiv.org/abs/2005.05960)  [[Video]](https://ramanans1.github.io/plan2explore/) [[website]](https://www.youtube.com/watch?v=gan79mAVfq8) ICML 2020<br />
 <details>
 <summary>ImageDetails</summary>
-<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/PlanningtoExploreviaSelf-SupervisedWorldModels/PlanningtoExploreviaSelf-SupervisedWorldModels-F01.png' width=50%><br />
-<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/PlanningtoExploreviaSelf-SupervisedWorldModels/PlanningtoExploreviaSelf-SupervisedWorldModels-F02.png' width=50%><br />
+<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/PlanningtoExploreviaSelfSupervisedWorldModels/PlanningtoExploreviaSelfSupervisedWorldModels-F01.png' width=50%><br />
+<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/PlanningtoExploreviaSelfSupervisedWorldModels/PlanningtoExploreviaSelfSupervisedWorldModels-F02.png' width=50%><br />
 </details>
 
 Planning with Diffusion for Flexible Behavior Synthesis <br />
