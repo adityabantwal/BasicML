@@ -162,7 +162,7 @@ StructDiffusion: Object-Centric Diffusion for Semantic Rearrangement of Novel Ob
 <img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/StructDiffusionObjectCentricDiffusionforSemanticRearrangementofNovelObjects-F02C.png' width=50%><br />
 </details>
 
-IS CONDITIONAL GENERATIVE MODELING ALL YOU NEED FOR DECISION-MAKING? <br />
+Is Conditional Generative Modelling All You Need for Decision Making <br />
 [[Paper]](https://arxiv.org/abs/2211.15657)  [[LinkProjectURL1]](nan) [[LinkProjectURL2]](nan) [[LinkGithub1]](nan) [[LinkGithub2]](nan) [[LinkGithub3]](nan) [[LinkVideo1]](nan) [[LinkVideo2]](nan) arxiv<br />
 <sub><sup>Anurag Ajayâ â â¡, Yilun Du *â¡, Abhi Gupta*â¡, Joshua Tenenbaumâ¡, Tommi Jaakkolaâ¡, Pulkit Agrawal</sup></sub><br />
 <details>
