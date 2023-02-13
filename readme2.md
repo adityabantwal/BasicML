@@ -162,13 +162,13 @@ StructDiffusion: Object-Centric Diffusion for Semantic Rearrangement of Novel Ob
 <img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/StructDiffusionObjectCentricDiffusionforSemanticRearrangementofNovelObjects-F02C.png' width=50%><br />
 </details>
 
-Is Conditional Generative Modelling All You Need for Decision Making <br />
+Is Conditional Generative Modelling All You Need for Decision Making? <br />
 [[Paper]](https://arxiv.org/abs/2211.15657)  [[LinkProjectURL1]](nan) [[LinkProjectURL2]](nan) [[LinkGithub1]](nan) [[LinkGithub2]](nan) [[LinkGithub3]](nan) [[LinkVideo1]](nan) [[LinkVideo2]](nan) arxiv<br />
 <sub><sup>Anurag Ajayâ â â¡, Yilun Du *â¡, Abhi Gupta*â¡, Joshua Tenenbaumâ¡, Tommi Jaakkolaâ¡, Pulkit Agrawal</sup></sub><br />
 <details>
 <summary>ImageDetails</summary>
-<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/ISCONDITIONALGENERATIVEMODELINGALLYOUNEEDFORDECISIONMAKING?-F01C.png' width=50%><br />
-<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/ISCONDITIONALGENERATIVEMODELINGALLYOUNEEDFORDECISIONMAKING?-F02C.png' width=50%><br />
+<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/IsConditionalGenerativeModellingAllYouNeedforDecisionMaking-F01C.png' width=50%><br />
+<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/IsConditionalGenerativeModellingAllYouNeedforDecisionMaking-F02C.png' width=50%><br />
 </details>
 
 TransPath: Learning Heuristics For Grid-Based Pathfinding via Transformers <br />
