@@ -575,13 +575,13 @@ Finding Options that Minimize Planning Time <br />
 <img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/FindingOptionsthatMinimizePlanningTime-F02C.png' width=50%><br />
 </details>
 
-Â Motion Planning Networks <br />
+Motion Planning Networks <br />
 [[Paper]](https://arxiv.org/abs/1806.05767)  [[LinkProjectURL1]](https://sites.google.com/view/mpnet/home) [[LinkProjectURL2]](nan) [[LinkGithub1]](nan) [[LinkGithub2]](nan) [[LinkGithub3]](nan) [[LinkVideo1]](nan) [[LinkVideo2]](nan) arxiv<br />
 <sub><sup>Ahmed H. Qureshi, Anthony Simeonov, Mayur J. Bency, Michael C. Yip</sup></sub><br />
 <details>
 <summary>ImageDetails</summary>
-<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/Â MotionPlanningNetworks-F01C.png' width=50%><br />
-<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/Â MotionPlanningNetworks-F02C.png' width=50%><br />
+<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/MotionPlanningNetworks-F01C.png' width=50%><br />
+<img src='https://github.com/adityabantwal/BasicML/blob/main/PaperImages/MotionPlanningNetworks-F02C.png' width=50%><br />
 </details>
 
 Differentiable Physics and Stable Modes for Tool-Use and Manipulation Planning <br />
